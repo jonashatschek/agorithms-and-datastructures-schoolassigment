@@ -1,0 +1,27 @@
+C:\Users\jakma536\Desktop\Nytt skalprojekt\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\jakma536\Desktop\Nytt skalprojekt\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\jakma536\Desktop\Nytt skalprojekt\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\jakma536\Desktop\Nytt skalprojekt\BinaryTree\obj\x86\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\jakma536\Desktop\Nytt skalprojekt\BinaryTree\obj\x86\Debug\BinaryTree.Form1.resources
+C:\Users\jakma536\Desktop\Nytt skalprojekt\BinaryTree\obj\x86\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\jakma536\Desktop\Nytt skalprojekt\BinaryTree\obj\x86\Debug\BinaryTree.csproj.GenerateResource.Cache
+C:\Users\jakma536\Desktop\Nytt skalprojekt\BinaryTree\obj\x86\Debug\BinaryTree.exe
+C:\Users\jakma536\Desktop\Nytt skalprojekt\BinaryTree\obj\x86\Debug\BinaryTree.pdb
+C:\Users\Jonas Hatschek\Dropbox\AlgoDS_Lab4\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Jonas Hatschek\Dropbox\AlgoDS_Lab4\BinaryTree\obj\x86\Debug\BinaryTree.exe
+C:\Users\Jonas Hatschek\Dropbox\AlgoDS_Lab4\BinaryTree\obj\x86\Debug\BinaryTree.pdb
+C:\Users\Jonas Hatschek\Dropbox\AlgoDS_Lab4\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Jonas Hatschek\Dropbox\AlgoDS_Lab4\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Jonas Hatschek\Dropbox\AlgoDS_Lab4\BinaryTree\obj\x86\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Jonas Hatschek\Dropbox\AlgoDS_Lab4\BinaryTree\obj\x86\Debug\BinaryTree.Form1.resources
+C:\Users\Jonas Hatschek\Dropbox\AlgoDS_Lab4\BinaryTree\obj\x86\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\Jonas Hatschek\Dropbox\AlgoDS_Lab4\BinaryTree\obj\x86\Debug\BinaryTree.csproj.GenerateResource.Cache
+C:\Users\Jonas\Dropbox\Systemvetarprogrammet\Systemvetarprogrammet\T2\Algoritmer och datastrukturer\Labbar\Labb4\AlgoDS_Lab4_JonasHatschek\AlgoDS_Lab4\BinaryTree\bin\Debug\BinaryTree.exe.config
+C:\Users\Jonas\Dropbox\Systemvetarprogrammet\Systemvetarprogrammet\T2\Algoritmer och datastrukturer\Labbar\Labb4\AlgoDS_Lab4_JonasHatschek\AlgoDS_Lab4\BinaryTree\bin\Debug\BinaryTree.exe
+C:\Users\Jonas\Dropbox\Systemvetarprogrammet\Systemvetarprogrammet\T2\Algoritmer och datastrukturer\Labbar\Labb4\AlgoDS_Lab4_JonasHatschek\AlgoDS_Lab4\BinaryTree\bin\Debug\BinaryTree.pdb
+C:\Users\Jonas\Dropbox\Systemvetarprogrammet\Systemvetarprogrammet\T2\Algoritmer och datastrukturer\Labbar\Labb4\AlgoDS_Lab4_JonasHatschek\AlgoDS_Lab4\BinaryTree\obj\x86\Debug\BinaryTree.csprojResolveAssemblyReference.cache
+C:\Users\Jonas\Dropbox\Systemvetarprogrammet\Systemvetarprogrammet\T2\Algoritmer och datastrukturer\Labbar\Labb4\AlgoDS_Lab4_JonasHatschek\AlgoDS_Lab4\BinaryTree\obj\x86\Debug\BinaryTree.Form1.resources
+C:\Users\Jonas\Dropbox\Systemvetarprogrammet\Systemvetarprogrammet\T2\Algoritmer och datastrukturer\Labbar\Labb4\AlgoDS_Lab4_JonasHatschek\AlgoDS_Lab4\BinaryTree\obj\x86\Debug\BinaryTree.Properties.Resources.resources
+C:\Users\Jonas\Dropbox\Systemvetarprogrammet\Systemvetarprogrammet\T2\Algoritmer och datastrukturer\Labbar\Labb4\AlgoDS_Lab4_JonasHatschek\AlgoDS_Lab4\BinaryTree\obj\x86\Debug\BinaryTree.csproj.GenerateResource.Cache
+C:\Users\Jonas\Dropbox\Systemvetarprogrammet\Systemvetarprogrammet\T2\Algoritmer och datastrukturer\Labbar\Labb4\AlgoDS_Lab4_JonasHatschek\AlgoDS_Lab4\BinaryTree\obj\x86\Debug\BinaryTree.exe
+C:\Users\Jonas\Dropbox\Systemvetarprogrammet\Systemvetarprogrammet\T2\Algoritmer och datastrukturer\Labbar\Labb4\AlgoDS_Lab4_JonasHatschek\AlgoDS_Lab4\BinaryTree\obj\x86\Debug\BinaryTree.pdb
